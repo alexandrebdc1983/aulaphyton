@@ -1,3 +1,14 @@
+##
+##╔═══════════════════════════════════════════════════════════════╗
+##║                    PROGRAMA DE FATURAMENTO                    ║
+##╠═══════════════════════════════════════════════════════════════╣
+##║  Autor: Alexandre Batista                                     ║
+##║  Descrição: Programa que calcula faturamento, custos,         ║
+##║             impostos e lucro baseado em operações comerciais. ║
+##║             Também demonstra o uso do operador módulo (%).    ║
+##╚═══════════════════════════════════════════════════════════════╝
+##
+
 # declaracao de variáveis 
 faturamento = 1200
 custo = 750.0
